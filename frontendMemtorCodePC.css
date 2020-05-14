@@ -1,0 +1,59 @@
+*{
+    font-family: Poppins;
+}
+
+.intro{
+    font-weight: 100;
+    font-size: x-large;
+    text-align: center;
+    color: hsl(234, 12%, 34%);
+
+}
+
+.subIntro{
+    font-weight: 600;
+    font-style: bold;
+    font-size: xx-large;
+    text-align: center;
+    color: hsl(234, 12%, 34%);
+
+}
+
+.info-intro{
+    color: hsl(229, 6%, 66%);
+    text-align: center;
+}
+
+.card-img-btm{
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+}
+
+.card{
+    height: 20rem;
+    text-align: left justify;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 2rem;
+    margin-top: 3rem;
+}
+
+.card-title{
+    color: blueviolet;
+    font-weight: 600;
+    font-size: 24px;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+
+.info-text{
+    color: hsl(229, 6%, 66%);
+    margin-left: 3rem;
+    margin-right: 3rem;
+    line-height: 30px;
+}
+
+.card-right{
+   float: right;
+}
